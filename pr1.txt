@@ -1,0 +1,27 @@
+DEVOPS ESSENTIAL NOTES:- 
+A clone operation is essentially a copy of a repository and its history.
+
+Pull requests let you tell others about changes you've pushed to a GitHub repository.
+
+Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
+
+Pull requests are commonly used by teams and organizations collaborating using the Shared Repository Model.
+
+Everyone shares a single repository, and topic branches are used to develop features and isolate changes.
+
+Many open-source projects on GitHub use pull requests to manage changes from contributors.
+
+They help provide a way to notify project maintainers about changes one has made.
+
+Also, start code review and general discussion about a set of changes before being merged into the main branch.
+
+Pull requests combine the review and merge of your code into a single collaborative process.
+
+Once you're done fixing a bug or new feature in a branch, create a new pull request.
+
+Add the team members to the pull request so they can review and vote on your changes.
+
+Use pull requests to review works in progress and get early feedback on changes.
+
+There's no commitment to merge the changes as the owner can abandon the pull request at any time.
+six sigma, iso9000, cmmm, scm 
